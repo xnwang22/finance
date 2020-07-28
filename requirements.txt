@@ -1,0 +1,5 @@
+pandas-datareader
+yahoo_finance_api2
+yfinance
+
+
