@@ -1,5 +1,9 @@
 pandas-datareader
 yahoo_finance_api2
 yfinance
+wallstreet
+matplotlib
+PyPortfolioOpt
+pulp
 
 
